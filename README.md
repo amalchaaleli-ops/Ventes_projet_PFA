@@ -46,3 +46,14 @@ pip install -r requirements.txt
 Une fois l'environnement activé, lancez l'automatisation via la commande :
 ```bash
 python app.py
+
+##6. Travail Collaboratif & Auteurs
+Ce projet a été réalisé en trinôme en exploitant les fonctionnalités de contrôle de version (Git/GitHub) pour assurer un suivi rigoureux des modifications et une collaboration fluide.
+
+Auteurs :
+
+Chaalali Amal
+
+Marweni Roudayna
+
+Saadallah Med Amine
