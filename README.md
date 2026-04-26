@@ -44,11 +44,24 @@ pip install -r requirements.txt
 
 
 ## 5. Utilisation
+
 Une fois l'environnement activé, lancez l'automatisation via la commande :
 
     python app.py
 
-##6. Travail Collaboratif & Auteurs
+## 6. 🚀 Interfaces Interactives (Dashboards)
+
+Pour aller plus loin que le script d'automatisation classique en console, notre équipe a également développé et déployé des versions interactives (Dashboards) de ce projet. Ces interfaces permettent une exploration visuelle et dynamique des données de ventes.
+
+👉 **Découvrez nos applications web (Streamlit) en direct :**
+
+* 📊 **[Dashboard PFA Vente](https://pfavente-gyx58qbzl3yrvg6m59yz65.streamlit.app/)**
+
+* 📈 **[Application SalesFlow](https://salesflow-app-nqms9juetgm5u2x4wgqr95.streamlit.app/)**
+
+
+## 7. Travail Collaboratif & Auteurs
+
 Ce projet a été réalisé en trinôme en exploitant les fonctionnalités de contrôle de version (Git/GitHub) pour assurer un suivi rigoureux des modifications et une collaboration fluide.
 
 Auteurs :
