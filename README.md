@@ -30,17 +30,18 @@ Ce projet constitue le Projet de Fin d'Année (PFA) pour la matière **Logiciels
 
 Afin de garantir l'isolation des dépendances et éviter les conflits de versions, ce projet s'exécute dans un environnement virtuel.
 
-```bash
-# 1. Clonage du dépôt distant
+
+    # Clonage du dépôt distant
 git clone https://github.com/amalchaaleli-ops/Ventes_projet_PFA.git
 cd Ventes_projet_PFA
 
-# 2. Création et activation de l'environnement virtuel
+    # Création et activation de l'environnement virtuel
 python -m venv env
 .\env\Scripts\activate   # Commande pour Windows
 
-# 3. Installation des bibliothèques nécessaires
+    # Installation des bibliothèques nécessaires
 pip install -r requirements.txt
+
 
 ## 5. Utilisation
 Une fois l'environnement activé, lancez l'automatisation via la commande :
