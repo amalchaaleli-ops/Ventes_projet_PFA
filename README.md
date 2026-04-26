@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ## 5. Utilisation
 Une fois l'environnement activé, lancez l'automatisation via la commande :
-    ```bash
+
     python app.py
 
 ##6. Travail Collaboratif & Auteurs
